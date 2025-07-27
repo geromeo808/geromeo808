@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gerome! <br/><a href="https://github.com/joshmadakor1">IT Specialist</a>, <a href="https://www.linkedin.com/in/gerome-cagaoan/">Aspiring Cloud Security Professional</a>
+<h1>Hi, I'm Gerome! <br/><a href="https://github.com/joshmadakor1">IT Specialist</a>, <a href="https://www.linkedin.com/in/gerome-cagaoan/"> Aspiring Cloud Security Professional</a>
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
