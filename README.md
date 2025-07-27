@@ -20,7 +20,7 @@
   - [Security+](https://www.credly.com/badges/70d25c2f-4991-4d33-9530-1e72b8dbca18/public_url)
     <br>
     <br>
- - <b>AWS</b>
+- <b>AWS</b>
   - [Certified Cloud Practitioner](https://www.credly.com/badges/9b4c1977-0de8-47a9-b56d-aadc88ac1896/public_url)
     
     
