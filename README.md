@@ -27,6 +27,10 @@
     <br>
 - <b>AWS</b>
   - [Certified Cloud Practitioner](https://www.credly.com/badges/9b4c1977-0de8-47a9-b56d-aadc88ac1896/public_url)
+
+- <b>Other Certs</b>
+  - Linux Professional Institute: Linux Essentials
+  - ITILv4: Foundations
     
     
 
