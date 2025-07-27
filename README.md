@@ -1,23 +1,16 @@
-<h1>Hi, I'm Gerome! <br/><a href="https://github.com/joshmadakor1">IT Specialist</a>, <a href="https://www.linkedin.com/in/gerome-cagaoan/">Aspiring Cybersecurity Professional</a>
+<h1>Hi, I'm Gerome! <br/><a href="https://github.com/joshmadakor1">IT Specialist</a>, <a href="https://www.linkedin.com/in/gerome-cagaoan/">Aspiring Cloud Professional</a>
+
+<h2>👨‍💻 Cloud Projects:</h2>
+
+- <b>AWS</b>
+  - [Deploying WordPress on EC2] (Github Link Here for Project)
+  - [Backup Script to S3]
+  - [CloudWatch Monitoring & Alerting]
+  - [VPC with Public and Private Subnets (Networking Project)]
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/geromeo808/ActiveDirectoryLab)
-
-
-<h2>👨‍💻 Network Projects:</h2>
-
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
- 
-<h2>☁️ Cloud Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+<b></b>
 
 <h2>📄 Certifications</h2>
 
