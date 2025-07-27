@@ -31,5 +31,5 @@
     
 
 <h2> 🤳 Connect with me:</h2>
-- <b>[linkedin]: [https://www.linkedin.com/in/gerome-cagaoan/]</b>
+- <b>[LinkedIn]: [https://www.linkedin.com/in/gerome-cagaoan/]</b>
 
