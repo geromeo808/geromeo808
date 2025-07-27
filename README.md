@@ -31,8 +31,5 @@
     
 
 <h2> 🤳 Connect with me:</h2>
+- <b>[linkedin]: [https://www.linkedin.com/in/gerome-cagaoan/]</b>
 
-[<img align="left" alt="Gerome Cagaoan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: [https://www.linkedin.com/in/gerome-cagaoan/]
