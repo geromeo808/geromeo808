@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cloud Projects:</h2>
 
 - <b>AWS</b>
-  - [Deploying WordPress on EC2] (Github Link Here for Project)
+  - [Deploying WordPress on EC2] (https://github.com/geromeo808/WordPress-on-EC2)
   - [Backup Script to S3]
   - [CloudWatch Monitoring & Alerting]
   - [VPC with Public and Private Subnets (Networking Project)]
