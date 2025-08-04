@@ -3,10 +3,9 @@
 <h2>👨‍💻 Cloud Projects:</h2>
 
 - <b>AWS</b>
-  - [Deploying WordPress on EC2](https://github.com/geromeo808/WordPress-on-EC2)
-  - [Backup Script to S3]
-  - [CloudWatch Monitoring & Alerting]
-  - [VPC with Public and Private Subnets (Networking Project)]
+  - [Creating IAM Roles](https://github.com/geromeo808/WordPress-on-EC2)
+  - [Creating IAM Users, Groups & Assigning policies]
+  - 
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
