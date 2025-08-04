@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cloud Projects:</h2>
 
 - <b>AWS</b>
-  - [Creating IAM Roles](https://github.com/geromeo808/WordPress-on-EC2)
+  - [Creating IAM Roles](https://github.com/geromeo808/Creating-IAM-Roles/blob/main/README.md)
   - [Creating IAM Users, Groups & Assigning policies]
   - 
 
